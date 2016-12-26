@@ -1,2 +1,2 @@
 # oldking
-it works
+it is good
